@@ -56,3 +56,5 @@ C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\obj\Debug\net5.0\ref\B
 C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\obj\Debug\net5.0\BlazorApp.pdb
 C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\obj\Debug\net5.0\BlazorApp.genruntimeconfig.cache
 C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\obj\Debug\net5.0\BlazorApp.csproj.CopyComplete
+C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Todo.razor.g.cs
+C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\obj\Debug\net5.0\Razor\Pages\Todo.razor.g.cs
