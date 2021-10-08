@@ -93,11 +93,16 @@ using BlazorApp.Shared;
 #nullable restore
 #line 9 "C:\Users\nick.fletcher\source\repos\ms-official\BlazorApp\Pages\Counter.razor"
        
+    [Parameter]
+    public int IncrementAmount { get; set; } = 1;
+    
+    
+
     private int currentCount = 0;
 
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount += IncrementAmount;
     }
 
 #line default
